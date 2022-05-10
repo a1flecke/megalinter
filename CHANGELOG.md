@@ -61,6 +61,8 @@ Note: Can be used with `megalinter/megalinter@beta` in your GitHub Action mega-l
   - [graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) from 2.0.2 to **3.0.0** on 2022-05-07
   - [checkov](https://www.checkov.io/) from 2.0.1119 to **2.0.1120** on 2022-05-08
   - [checkov](https://www.checkov.io/) from 2.0.1120 to **2.0.1121** on 2022-05-08
+  - [golangci-lint](https://golangci-lint.run/) from 1.45.2 to **1.46.0** on 2022-05-10
+  - [checkov](https://www.checkov.io/) from 2.0.1121 to **2.0.1129** on 2022-05-10
 <!-- linter-versions-end -->
 
 - Flavors
